@@ -57,10 +57,11 @@ Note: If no file path is specified, the pipeline automatically spins up a fallba
 📖 Citation Blueprint
 If you utilize this framework configuration, implementation architecture, or replication code in your research work, please apply the following academic citation layout:
 
-Code snippet
 @Article{Edge-LDP-2026,
   Title  = {Privacy-Preserving Behavioral Analytics at the Edge: A Lightweight Local Differential Privacy Framework for Smart Home IoT Telemetry},
   Author = {Tiwari, Siddhi},
   Year   = {2026},
-  Status = {Preprint Archive}
+  Publisher = {Zenodo},
+  Doi    = {10.5281/zenodo.20473815},
+  URL    = {https://zenodo.org/records/20473815}
 }
