@@ -63,5 +63,5 @@ If you utilize this framework configuration, implementation architecture, or rep
   Year   = {2026},
   Publisher = {Zenodo},
   Doi    = {10.5281/zenodo.20473815},
-  Url    = {https://zenodo.org/records/20473815}
+  Url    = {https://doi.org/10.5281/zenodo.20473815}
 }
